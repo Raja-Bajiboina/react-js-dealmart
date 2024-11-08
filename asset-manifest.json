@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-js-dealmart/static/css/main.3ef54781.css",
+    "main.js": "/react-js-dealmart/static/js/main.b97f44aa.js",
+    "static/js/453.04c21bb6.chunk.js": "/react-js-dealmart/static/js/453.04c21bb6.chunk.js",
+    "static/media/image1.png": "/react-js-dealmart/static/media/image1.ac978d2a717c350c896d.png",
+    "index.html": "/react-js-dealmart/index.html",
+    "main.3ef54781.css.map": "/react-js-dealmart/static/css/main.3ef54781.css.map",
+    "main.b97f44aa.js.map": "/react-js-dealmart/static/js/main.b97f44aa.js.map",
+    "453.04c21bb6.chunk.js.map": "/react-js-dealmart/static/js/453.04c21bb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ef54781.css",
+    "static/js/main.b97f44aa.js"
+  ]
+}
